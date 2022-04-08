@@ -3,3 +3,6 @@ root: contents
 structure:
 	readme: READE.md
 	summary: SUMMARY.md
+
+redirects:
+    claim: guides/claim-a-deal
