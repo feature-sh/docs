@@ -2,7 +2,7 @@
 description: Say you contributed.
 ---
 
-# 🙋‍♀️ Claim a Deal
+# 🙋 Claim a Deal
 
 If the last comment is _"Anyone can claim by linking a PR to the issue."_ and nobody has claimed yet:
 
