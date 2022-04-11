@@ -6,7 +6,7 @@ description: Attract developers with a reward.
 
 1\) Open an **issue** on Github.
 
-2\) **Entitle** it or add a **comment** with this format: *$\<issue\_type> \<crypto\_amount> (\<network>)*.
+2\) **Entitle** it or add a **comment** with this format: _$\<issue_type> \<crypto_amount> (\<network>)_.
 
 ![Comment an issue with a keyword to deal](../.gitbook/assets/create_deal_command.png)
 
@@ -20,9 +20,8 @@ ERC20 compatible (WIP)
 
 5\) **Click on Create the Deal**. Once transaction done, you will be automatically redirected to GitHub.
 
-![Create your Deal](<../.gitbook/assets/web3_deal.png>)
+![Create your Deal](../.gitbook/assets/web3_deal.png)
 
 6\) The bot will comment that **you've created the Deal successfully**!
-
 
 ![Deal created!](../.gitbook/assets/settlement_done.png)
