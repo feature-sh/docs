@@ -1,8 +1,8 @@
 # 🤖 What is Feature?
 
-Feature is a freelancing platform that facilitates the payment process in order to reward developers and contributors.&#x20;
+Feature is a freelancing platform that facilitates the payment process in order to reward developers and contributors.
 
-Our vision is to encourage developers to contribute to open-source projects on GitHub, by being rewarded with cryptocurrencies.&#x20;
+Our vision is to encourage developers to contribute to open-source projects on GitHub, by being rewarded with cryptocurrencies.
 
 But you can still use Feature in private repositories to improve your software development productivity.
 
@@ -14,4 +14,31 @@ You can benefit from Feature services directly on Github. A Github bot parses yo
 
 ## Getting Started
 
-**Install Feature in 2 minutes following this link** [https://beta.v1.evm.app.feature.sh/](https://beta.v1.evm.app.feature.sh)
+1\) **[Click here](https://beta.v1.evm.app.feature.sh)** to start the **Feature App installation**.
+
+2\) Once on the Feature installation page, click on **Installation**. You will be redirected to GitHub.
+
+![Feature installation page](<.gitbook/assets/installation.png>)
+
+3\) **Select** the **account** or **organization** where you want to install the bot.
+
+![GitHub account/organization selection](<.gitbook/assets/installation_select_account.png>)
+
+4\) **Select** the **repository(ies)** in which the bot will be used, then click on **Install**.
+
+![Repository selection](<.gitbook/assets/github_installation.png>)
+
+{% hint style="info" %}
+The Feature bot will **only** have the permission to:
+- **Read** access to metadata;
+- **Read** and **write** access to issues and pull requests.
+{% endhint %}
+
+
+4\) Then, **sign in** or **start your 14-day free trial**, in order to be able to use Feature.
+
+![Sign in or start your free trial](<.gitbook/assets/feature_signin.png>)
+
+4\) After signing in, **you're done**! You can see every deals that have been created with Feature bot.
+
+![Feature's deals page](<.gitbook/assets/feature_deals.png>)
