@@ -6,22 +6,28 @@ description: Attract developers with a reward.
 
 1\) Open an **issue** on Github.
 
-2\) **Entitle** it or add a **comment** with this format: _$\<issue_type> \<crypto_amount> (\<network>)_.
+2\) **Entitle** it or add a **comment** with this format: _$\<issue\_type> \<crypto\_amount> (\<network>)_.
 
-![Comment an issue with a keyword to deal](../.gitbook/assets/create_deal_command.png)
+{% hint style="info" %}
+The keywords to launch a deal are these: `$f, $bounty, $grant, $feature, $feat, $fix, $audit, $CS, $doc, $documentation, $refacto, $refactoring, $code, $chore, $test, $docs, $ci, $perf, $build and $style .`\
+``\
+`And the keyword networks are:` (Polygon), (Xdai) and (Arbitrum)`.`
+{% endhint %}
+
+![Comment an issue with a keyword to deal](../.gitbook/assets/create\_deal\_command.png)
 
 3\) The Feature bot will ask you to **put the cryptocurrency amount in Escrow**. **Click on the link** to be redirected to the related page.
 
 {% hint style="info" %}
-ERC20 compatible (WIP)
+Feature works with coin as well as tokens (ERC20).
 {% endhint %}
 
 4\) **Connect your wallet**. If enough funds, you will be able to approve the transfer.
 
 5\) **Click on Create the Deal**. Once transaction done, you will be automatically redirected to GitHub.
 
-![Create your Deal](../.gitbook/assets/web3_deal.png)
+![Create your Deal](../.gitbook/assets/web3\_deal.png)
 
 6\) The bot will comment that **you've created the Deal successfully**!
 
-![Deal created!](../.gitbook/assets/settlement_done.png)
+![Deal created!](../.gitbook/assets/settlement\_done.png)

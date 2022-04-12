@@ -31,9 +31,6 @@ The Feature bot will **only** have the permission to:
 
 * **Read** access to metadata;
 * **Read** and **write** access to issues and pull requests.
-
-\
-Feature never has access to your code but only to the names of directories and contributors (metadata) and the thread of issues and pull requests.
 {% endhint %}
 
 4\) Then, **sign in** or **start your 14-day free trial**, in order to be able to use Feature.
