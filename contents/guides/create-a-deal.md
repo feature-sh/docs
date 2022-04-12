@@ -9,7 +9,7 @@ description: Attract developers with a reward.
 2\) **Entitle** it or add a **comment** with this format: _$\<issue\_type> \<crypto\_amount> (\<network>)_.
 
 {% hint style="info" %}
-The keywords to launch a deal are these: `$f, $bounty, $grant, $feature, $feat, $fix, $audit, $CS, $doc, $documentation, $refacto, $refactoring, $code, $chore, $test, $docs, $ci, $perf, $build and $style` .\
+The keywords to launch a deal are these: `$f, $bounty, $grant, $feature, $feat, $fix, $audit, $CS, $doc, $documentation, $refacto, $refactoring, $code, $chore, $test, $docs, $ci, $perf, $build and $style`.\
 \
 And the keyword networks are: `(Polygon), (Xdai) and (Arbitrum).`
 {% endhint %}
