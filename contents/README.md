@@ -40,3 +40,7 @@ The Feature bot will **only** have the permission to:
 4\) After signing in, **you're done**! You can see every deals that have been created with Feature bot.
 
 ![Feature's deals page](.gitbook/assets/feature\_deals.png)
+
+Congratulations on completing the installation 🎉\
+\
+Now it's time to make your first deal to start increasing your product development productivity 🤓
