@@ -1,44 +1,42 @@
 # 🤖 What is Feature?
 
-Feature is a freelancing platform that facilitates the payment process in order to reward developers and contributors.
-
 Our vision is to encourage developers to contribute to open-source projects on GitHub, by being rewarded with cryptocurrencies.
 
 But you can still use Feature in private repositories to improve your software development productivity.
 
 {% hint style="info" %}
-It is currently deployed on Gnosis Chain, Polygon and Arbitrum.
+It is currently deployed on [Gnosis Chain](https://www.xdaichain.com), [Polygon](https://polygon.technology) and [Arbitrum](https://arbitrum.io).
 {% endhint %}
 
 You can benefit from Feature services directly on Github. A Github bot parses your issues to create truly secure payments.
 
 ## Getting Started
 
-1\) **[Click here](https://beta.v1.evm.app.feature.sh)** to start the **Feature App installation**.
+1\) [**Click here**](https://beta.v1.evm.app.feature.sh) to start the **Feature App installation**.
 
 2\) Once on the Feature installation page, click on **Installation**. You will be redirected to GitHub.
 
-![Feature installation page](.gitbook/assets/installation.png)
+![Installation of the Feature Github App ](<.gitbook/assets/Group 88 (3).png>)
 
 3\) **Select** the **account** or **organization** where you want to install the bot.
 
-![GitHub account/organization selection](.gitbook/assets/installation_select_account.png)
+![GitHub account/organization selection](.gitbook/assets/installation\_select\_account.png)
 
 4\) **Select** the **repository(ies)** in which the bot will be used, then click on **Install**.
 
-![Repository selection](.gitbook/assets/github_installation.png)
+![Repository selection](.gitbook/assets/github\_installation.png)
 
 {% hint style="info" %}
 The Feature bot will **only** have the permission to:
 
-- **Read** access to metadata;
-- **Read** and **write** access to issues and pull requests.
+* **Read** access to metadata;
+* **Read** and **write** access to issues and pull requests.
 {% endhint %}
 
 4\) Then, **sign in** or **start your 14-day free trial**, in order to be able to use Feature.
 
-![Sign in or start your free trial](.gitbook/assets/feature_signin.png)
+![Sign in or start your free trial](.gitbook/assets/feature\_signin.png)
 
 4\) After signing in, **you're done**! You can see every deals that have been created with Feature bot.
 
-![Feature's deals page](.gitbook/assets/feature_deals.png)
+![Feature's deals page](.gitbook/assets/feature\_deals.png)
