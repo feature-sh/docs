@@ -1,3 +1,7 @@
+---
+description: Receive your money back if nobody has claimed your Deal on time.
+---
+
 # 🔁 Refund
 
 Nobody has claimed on time? As a Deal creator, you can be refunded your money
