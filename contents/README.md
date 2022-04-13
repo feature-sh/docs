@@ -1,8 +1,8 @@
 # 🤖 What is Feature?
 
-Our vision is to encourage developers to contribute to open-source projects on GitHub, by being rewarded with cryptocurrencies.
+Our vision is to encourage developers to contribute to projects on GitHub, by being rewarded with cryptocurrencies.
 
-But you can still use Feature in private repositories to improve your software development productivity.
+You can still use Feature to improve your software development productivity.
 
 {% hint style="info" %}
 It is currently deployed on [Gnosis Chain](https://www.xdaichain.com), [Polygon](https://polygon.technology) and [Arbitrum](https://arbitrum.io).
@@ -31,6 +31,9 @@ The Feature bot will **only** have the permission to:
 
 * **Read** access to metadata;
 * **Read** and **write** access to issues and pull requests.
+
+\
+Feature never has access to your code but only to the names of directories and contributors (metadata) and the thread of issues and pull requests.
 {% endhint %}
 
 4\) Then, **sign in** or **start your 14-day free trial**, in order to be able to use Feature.
