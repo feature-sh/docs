@@ -1,13 +1,25 @@
+---
+description: Receive your money back if nobody has claimed your Deal on time.
+---
+
 # 🔁 Refund
 
+Nobody has claimed on time? As a Deal creator, you can be refunded your money
+put in Escrow.
+
+1\) If **time to claim a reward has expired**, Feature bot will automatically
+comment the related issue.
+
+![Claim time expired](../.gitbook/assets/claim_time_expired.png)
+
+2\) Click on **_Refund the Payment_**, then **connect your wallet**.
+
 {% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+Anyone can execute the refund, but **only the Deal creator will receive the
+money in Escrow**. The one who execute it will only pay the transaction fees.
 {% endhint %}
 
-## The basics
+![Last step before getting refunded](../.gitbook/assets/web3_refund.png)
 
-Projects are containers for task lists. Think of them as a library for everything your team needs to get done to complete or ship a project.
-
-## Creating a project
-
-Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
+3\) Once the transaction is mined, the **refund is complete**! Check your
+wallet to see your money back.
