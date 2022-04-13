@@ -22,7 +22,7 @@ You can benefit from Feature services directly on Github. A Github bot parses yo
 
 ![GitHub account/organization selection](.gitbook/assets/installation\_select\_account.png)
 
-4\) **Select** the **repository(ies)** in which the bot will be used, then click on **Install**.
+4\) **Select** the **repositories** in which the bot will be used, then click on **Install**.
 
 ![Repository selection](.gitbook/assets/github\_installation.png)
 
