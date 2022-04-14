@@ -21,5 +21,5 @@ If the last comment is _"Anyone can claim by linking a PR to the issue."_ and no
 ![](../.gitbook/assets/successful\_claim.png)
 
 {% hint style="info" %}
-If nobody has challenged your claim within the challenge period, you will be able to [execute the deal](refund.md#the-basics) to receive your reward.
+If nobody has challenged your claim within the challenge period, you will be able to [execute the deal](execute-a-deal.md) to receive your reward.
 {% endhint %}
