@@ -6,7 +6,7 @@ description: Say you contributed.
 
 If the last comment is _"Anyone can claim by linking a PR to the issue."_ and nobody has claimed yet:
 
-1\) **Comment** the **number** with the keyword **** `$feat` of your **Pull Request**.
+1\) **Comment** the **number** with the keyword **`$feat`** of your **Pull Request**.
 
 ![Linking a PR to claim](../.gitbook/assets/claim\_command.png)
 
