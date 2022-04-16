@@ -2,11 +2,11 @@
 description: Say you contributed.
 ---
 
-# 🙋♀ Claim a Deal
+# 🙋♀ Claim your Reward
 
 If you made a Pull Request relative to the deal, you are ready to claim your reward:
 
-1\) **Comment** the **number** with the keyword **`$feat`** of your **Pull Request**.
+1\) **Comment** the **number** of your **Pull Request** with the keyword **`$feat`** .
 
 ![Linking a PR to claim](../.gitbook/assets/claim\_command.png)
 
