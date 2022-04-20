@@ -6,6 +6,6 @@
 - [x] Getting Started Page
 - [x] Create a Deal Page
 - [x] Claim a Deal Page
-- [ ] Challenge a Deal
+- [x] Challenge a Deal
 - [x] Execute a Deal
-- [ ] Refund a Deal
+- [x] Refund a Deal
