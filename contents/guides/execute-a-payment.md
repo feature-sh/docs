@@ -2,7 +2,7 @@
 description: Send or get the reward for the good work!
 ---
 
-# 💰 Execute a Deal
+# 💰 Execute a Payment
 
 Once the **challenge period is over**, you will be prompt to **get your reward by the bot**.
 
