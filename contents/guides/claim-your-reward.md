@@ -6,14 +6,6 @@ description: Say you contributed.
 
 If you made a Pull Request relative to the deal, you are ready to claim your reward:
 
-{% hint style="info" %}
-If it's your **first time claiming**, you need to **link** your **GitHub account** with your **wallet address**. In that case, **do step 1**. Then, the bot will ask you to link your wallet address.
-
-After that, just **do step 1 again** and follow this tutorial.
-
-<img src="../.gitbook/assets/link_address.png" alt="Wallet address linking process" data-size="original">
-{% endhint %}
-
 1\) **Comment** the **number** of your **Pull Request** with the keyword **`$feat`** .
 
 ![Linking a PR to claim](../.gitbook/assets/claim\_command.png)

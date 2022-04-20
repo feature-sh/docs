@@ -12,7 +12,7 @@ During the review period, you can challenge the claimer if the specifications ar
 
 2\) Once redirected, connect your wallet and click on _**Challenge Claim**_.
 
-![Confirm that you're challenging the claimer](../.gitbook/assets/web3\_challenge.png)
+![](../.gitbook/assets/web3\_challenge.png)
 
 3\) After that, **wait** for the jurors to make their ruling.
 
