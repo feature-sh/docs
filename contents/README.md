@@ -1,3 +1,7 @@
+---
+description: Quick overview of Feature & how to use it.
+---
+
 # 🤖 What is Feature?
 
 Our vision is to encourage developers to contribute to projects on GitHub, by being rewarded with cryptocurrencies.

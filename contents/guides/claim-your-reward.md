@@ -2,7 +2,7 @@
 description: Say you contributed.
 ---
 
-# 🙋♀ Claim your Reward
+# 🙋 Claim your Reward
 
 If you made a Pull Request relative to the deal, you are ready to claim your reward:
 
