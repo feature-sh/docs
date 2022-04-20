@@ -16,7 +16,7 @@ You can benefit from Feature services directly on Github. A Github bot parses yo
 
 2\) Once on the Feature installation page, click on **Installation**. You will be redirected to GitHub.
 
-![Installation of the Feature Github App ](<.gitbook/assets/Group 88 (3).png>)
+![Installation of the Feature GitHub App](.gitbook/assets/installation.png)
 
 3\) **Select** the **account** or **organization** where you want to install the bot.
 

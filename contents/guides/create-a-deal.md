@@ -14,7 +14,7 @@ The keywords to launch a deal are these: `$f, $bounty, $grant, $feature, $feat, 
 And the keyword networks are: `(polygon)`, `(xdai)` and `(arbitrum)`.
 {% endhint %}
 
-![Comment an issue with a keyword to deal](../.gitbook/assets/create\_deal\_command.png)
+![Comment an issue with keywords to create a Deal](../.gitbook/assets/create\_deal\_command.png)
 
 3\) The Feature bot will ask you to **put the cryptocurrency amount in Escrow**. **Click on the link** to be redirected to the related page.
 

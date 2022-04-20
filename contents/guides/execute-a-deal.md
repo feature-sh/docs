@@ -12,8 +12,8 @@ Once the **challenge period is over**, you will be prompt to **get your reward b
 
 2\) **Connect your wallet** and **click on Pay** to receive your reward.
 
-![Last step to finalize the transaction!](../.gitbook/assets/web3\_pay.png)
+![Last step before finalizing the payment!](../.gitbook/assets/web3\_pay.png)
 
 3\) Hurray! **The developer will receive your tokens/coins shortly**!
 
-![](../.gitbook/assets/job\_done.png)
+![Reward transfered to your wallet!](../.gitbook/assets/job\_done.png)
