@@ -1,5 +1,5 @@
 ---
-description: Quick overview of Feature & how to use it.
+description: Quick overview of Feature & how to start using it.
 ---
 
 # 🤖 What is Feature?
