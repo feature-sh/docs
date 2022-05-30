@@ -1,0 +1,8 @@
+{
+    "plugin": ["ga"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "GTM-M74K278"
+        }
+    }
+}
