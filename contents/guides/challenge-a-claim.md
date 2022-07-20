@@ -2,13 +2,13 @@
 description: Challenge the developer if the specifications are not met.
 ---
 
-# ⚔ Challenge a Claim
+# ⚔️ Challenge a Claim
 
 During the review period, you can challenge the claimer if the specifications are not met.
 
 1\) If you think that the last claimer's PR doesn't meet the deal creator's specifications, click on _**Challenge the Claim**_.
 
-![Challenge the claimer](../.gitbook/assets/successful\_claim.png)
+![Challenge the claimant](../.gitbook/assets/successful\_claim.png)
 
 2\) Once redirected, connect your wallet and click on _**Challenge Claim**_.
 
