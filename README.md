@@ -9,3 +9,4 @@
 - [x] Challenge a Deal
 - [x] Execute a Deal
 - [x] Refund a Deal
+- [ ] Auto-deal page
