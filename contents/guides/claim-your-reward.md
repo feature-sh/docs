@@ -6,7 +6,7 @@ description: Say you contributed.
 
 If you made a Pull Request relative to the deal, you are ready to claim your reward:
 
-1\) **Comment** the **number** of your **Pull Request** with the keyword **`$PR, $pr or $fixed`** .
+1\) **Comment** the **number** of your **Pull Request** with the keyword **`$PR, $pr, $claim or $fixed`** .
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2022-09-06 141044.png" alt=""><figcaption><p>Linking a PR to claim</p></figcaption></figure>
 
