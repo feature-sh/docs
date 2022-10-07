@@ -1,5 +1,5 @@
 ---
-description: Réaliser un certificat qui prouve un accomplisssement et des badges pour attester d'un niveau de compétence.
+description: Achieve a certificate that proves an accomplishment and badges to attest to a level of competence.
 ---
 
 # ⭐ Create a Certificat and badges
@@ -18,19 +18,29 @@ All the certificates of the different blockchains are listed there by user or or
 
 ![Create your Certificate](../.gitbook/assets/certificates\_create.png)
 
-2) Once the certificate is created, you can access the badge generator.
+2) Access the badge generator to create a badge.
 
-To access the badge generator click on the three small dots of the certificate and select details.
+Click on the three small dots of the certificate and select details for open the certificat détails.
 
-3) Use the badge generator to create a personalized certification.
+3) Use the badge generator to create a personalized certification badge.
 
 ![Create a badge](../.gitbook/assets/certificat\_details.png)
 
-The badge consists of an image and metadata.
-
-Complete the information that describes the badge with a description and attributes. These will enhance the digital representation of your certification.
+The badge consists of an image and metadata. Complete the information that describes the badge with a description and attributes. These will enhance the digital representation of your certification.
 
 Validate the properties of your badge to add it to your collection. The details of a badge can be found by clicking on it.
+
+5) Attribute a badge to a github user in the Github issue of a deal.
+
+**Entitle** it or add a **comment** with this format: _$\<badge\_type>: \<certificate_symbol> \<badge_name> or \<@github-user>_.
+
+{% hint style="info" %}
+The keywords to launch a mint of a badge are these: `$badge and $bg`.\
+{% endhint %}
+
+![Mint a badge](../.gitbook/assets/badge\_mint.png)
+
+The success of the transaction by your wallet confirms that the badge has been minted for its recipient. You minted successfully!
 
 4) Delete a certificate belonging to their Github organization.
 
