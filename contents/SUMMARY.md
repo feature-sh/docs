@@ -11,3 +11,4 @@
 * [💰 Execute a Payment](guides/execute-a-payment.md)
 * [🔁 Get refunded](guides/get-refunded.md)
 * [🪄 Auto dealing](guides/auto-dealing.md)
+* [⭐ Create a certificat and badges](create-a-certificat-and-badges.md)
