@@ -32,13 +32,17 @@ Validate the properties of your badge to add it to your collection. The details 
 
 5) Attribute a badge to a github user in the Github issue of a deal.
 
-**Entitle** it or add a **comment** with this format: _$\<badge\_type>: \<certificate_symbol> \<badge_name> or \<@github-user>_.
+**Entitle** it or add a **comment** with this format: _$\<badge\_type> \<certificate_symbol> \<badge_name> or \<@github-user>_.
+
+The message from the badge issuer contains the recipient's wallet address.  
 
 {% hint style="info" %}
 The keywords to launch a mint of a badge are these: `$badge and $bg`.\
 {% endhint %}
 
 ![Mint a badge](../.gitbook/assets/badge\_mint.png)
+
+The minter must be the receiver and have the rights to his wallet address to be able to mint a badge.  
 
 The success of the transaction by your wallet confirms that the badge has been minted for its recipient. You minted successfully!
 
