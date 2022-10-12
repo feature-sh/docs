@@ -28,16 +28,20 @@ Click on the three small dots of the certificate and select details for open the
 
 The badge consists of an image and metadata. Complete the information that describes the badge with a description and attributes. These will enhance the digital representation of your certification.
 
-Validate the properties of your badge to add it to your collection. The details of a badge can be found by clicking on it.
+The details of a badge can be found by clicking on it.
 
-5) Attribute a badge to a github user in the Github issue of a deal.
+4) Attribute a badge to a github user in the Github issue of a deal.
 
-**Entitle** it or add a **comment** with this format: _$\<badge\_type> \<certificate_symbol> \<badge_name> or \<@github-user>_.
+**Entitle** it or add a **comment** with this format: _$\<badge\_keyword> \<certificate_symbol> \<badge_name> \ <wallet_address_recipient> or \<@github-user>_.
 
 The message from the badge issuer contains the recipient's wallet address.  
 
+For mint with username github preceded by @, open profile, in the top right dropdown menu, login to Metamask and prove ownership performing a signature in Metamask.
+
+![Prove ownership](../.gitbook/assets/badge\_prove\_ownership.png)
+
 {% hint style="info" %}
-The keywords to launch a mint of a badge are these: `$badge and $bg`.\
+The keywords to launch a mint of a badge are these: `$badge`.\
 {% endhint %}
 
 ![Mint a badge](../.gitbook/assets/badge\_mint.png)
@@ -46,7 +50,7 @@ The minter must be the receiver and have the rights to his wallet address to be 
 
 The success of the transaction by your wallet confirms that the badge has been minted for its recipient. You minted successfully!
 
-4) Delete a certificate belonging to their Github organization.
+5) Delete a certificate belonging to their Github organization.
 
 The certificate can be deleted from the list of certificates. Deleting the certificate will delete the badges corresponding to it.
 
