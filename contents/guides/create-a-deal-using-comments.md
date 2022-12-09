@@ -2,7 +2,7 @@
 description: Attract developers with a reward.
 ---
 
-# ⚡ Create a Deal
+# ⚡ Create a deal using GitHub comments
 
 1\) Open an **issue** on Github.
 
@@ -11,7 +11,7 @@ description: Attract developers with a reward.
 {% hint style="info" %}
 The keywords to launch a deal are these: `$f, $bounty, $grant, $feature, $feat, $fix, $audit, $CS, $doc, $documentation, $refacto, $refactoring, $code, $chore, $test, $docs, $ci, $perf, $build and $style`.\
 \
-And the keyword networks are: `(polygon)`, `(xdai)` and `(arbitrum)`.
+And the keyword networks are: `(polygon)`, `(xdai)` and `(arbitrum_one)`.
 {% endhint %}
 
 ![Comment an issue with keywords to create a Deal](../.gitbook/assets/create\_deal\_command.png)
