@@ -1,6 +1,6 @@
 # 🪄 Auto dealing
 
-To make creating deals even more easy, FEATURE allows organizations to manage special wallets that can be used to automatically sign the blockchain transaction that is required to create a new deal.
+To make creating deals even easier, FEATURE allows organizations to manage special wallets that can be used to automatically sign the blockchain transaction that is required to create a new deal.
 
 Using auto dealing, you will simply have to label an issue with a [Feature label](../create-a-deal-using-labels.md) and the deal will be created automatically without further action.
 
@@ -16,7 +16,7 @@ Auto dealing only works with issue labelling as of now. Learn how to use Feature
 
 ![](../.gitbook/assets/select\_organization\_wallet.png)
 
-3\) Label an issue with a Feature label and let the magic happen 🪄.The transaction can take up to a few minutes to be processed, but fortunately the Bot will keep you updated about the progress!
+3\) Label an issue with a Feature label and let the magic happen 🪄. The transaction can take up to a few minutes to be processed, but fortunately the Bot will keep you updated about the progress!
 
 ![](../.gitbook/assets/auto\_deal\_success.png)
 
