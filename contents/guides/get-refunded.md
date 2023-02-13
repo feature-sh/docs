@@ -16,7 +16,7 @@ comment the related issue.
 
 {% hint style="info" %}
 Anyone can execute the refund, but **only the Deal creator will receive the
-money in Escrow**. The one who execute it will only pay the transaction fees.
+money in Escrow**. The one who executes it will only pay the transaction fees.
 {% endhint %}
 
 ![Last step before getting refunded](../.gitbook/assets/web3_refund.png)
