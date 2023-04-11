@@ -5,10 +5,10 @@ To make creating deals even easier, FEATURE allows organizations to manage speci
 Using auto dealing, you will simply have to label an issue with a [Feature label](../create-a-deal-using-labels.md) and the deal will be created automatically without further action.
 
 {% hint style="warning" %}
-Auto dealing only works with issue labelling as of now. Learn how to use Feature labels [here](../create-a-deal-using-labels.md)
+Auto dealing only works with issue labelling as of now.
 {% endhint %}
 
-1\) Enable auto dealing in your [organization settings](https://dashboard.feature.sh/settings/installations) as shown below:
+1\) Enable auto dealing in your [organization settings](https://dashboard.feature.sh/settings/wallets) as shown below:
 
 ![](../.gitbook/assets/enable\_auto\_dealing.png)
 
