@@ -1,3 +1,7 @@
+---
+description: Interacts with Web3 with the UX of Web2
+---
+
 # 🪄 Auto dealing
 
 To make creating deals even easier, FEATURE allows organizations to manage special wallets that can be used to automatically sign the blockchain transaction that is required to create a new deal.
