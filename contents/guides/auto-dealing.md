@@ -1,5 +1,5 @@
 ---
-description: Interacts with Web3 with a Web2 UX
+description: Create crypto-incentives in one click
 ---
 
 # 🪄 Auto dealing
@@ -20,14 +20,14 @@ And don't forget to save the configuration with **Save.**
 
 2\) Manage your organization wallets and set the one you want to use for auto dealing by selecting it as the default.
 
-![](../.gitbook/assets/select\_organization\_wallet.png)
+![Organization wallets](../.gitbook/assets/select\_organization\_wallet.png)
 
 3\) Label an issue with a Feature label and let the magic happen 🪄. The transaction can take up to a few minutes to be processed, but fortunately the Bot will keep you updated about the progress!
 
-![](../.gitbook/assets/auto\_deal\_success.png)
+![Automatic Success Deal](../.gitbook/assets/auto\_deal\_success.png)
 
 {% hint style="warning" %}
 The selected wallet should have the necessary funds to create the deal, otherwise an error message will be thrown by the bot.
 {% endhint %}
 
-![](../.gitbook/assets/auto\_deal\_failure.png)
+![Fail Deal](../.gitbook/assets/auto\_deal\_failure.png)
