@@ -1,5 +1,5 @@
 ---
-description: Interacts with Web3 with the UX of Web2
+description: Interacts with Web3 with a Web2 UX
 ---
 
 # 🪄 Auto dealing
