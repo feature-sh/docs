@@ -14,7 +14,7 @@ Auto dealing only works with issue labelling as of now.
 
 1\) Enable auto dealing in your [organization settings](https://dashboard.feature.sh/settings/wallets) as shown below:
 
-![Enable auto dealing](../.gitbook/assets/enable\_auto\_dealing.png)
+![Enable auto dealing](../.gitbook/assets/capture-dashboard-auto-dealing-enable.png)
 
 And don't forget to save the configuration with **Save.**
 
@@ -24,10 +24,10 @@ And don't forget to save the configuration with **Save.**
 
 3\) Label an issue with a Feature label and let the magic happen 🪄. The transaction can take up to a few minutes to be processed, but fortunately the Bot will keep you updated about the progress!
 
-![Automatic Success Deal](../.gitbook/assets/auto\_deal\_success.png)
+![Automatic Success Deal](../.gitbook/assets/capture-github-label-with-autodeal.png)
 
 {% hint style="warning" %}
 The selected wallet should have the necessary funds to create the deal, otherwise an error message will be thrown by the bot.
 {% endhint %}
 
-![Fail Deal](../.gitbook/assets/auto\_deal\_failure.png)
+![Fail Deal](../.gitbook/assets/capture-github-autodeal-fail.png)
