@@ -12,7 +12,7 @@ This is particularly useful to avoid a kind of _double spend_ if core team membe
 Double escrow works only with auto dealing enabled.
 {% endhint %}
 
-1\) Enable auto dealing and double escrow in your [organization settings](https://dev.dashboard.feature.sh/settings/wallets) as shown below:
+1\) Enable auto dealing and double escrow in your [organization settings](https://dashboard.feature.sh/settings/wallets) as shown below:
 
 <figure><img src="../.gitbook/assets/capture-dashboard-settings-double-escrow.png" alt=""><figcaption></figcaption></figure>
 
