@@ -25,5 +25,5 @@ If you are in [autodealing](https://docs.feature.sh/guides/auto-dealing) just cl
 <figure><img src="../.gitbook/assets/capture-github-challenge-content.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If nobody has challenged your claim within the challenge period, you will be able to [execute the refund](https://docs.feature.sh/guides/get-refunded) to receive your reward.
+If nobody has challenged your claim within the challenge period, you will be able to [execute the payment](https://docs.feature.sh/guides/execute-a-payment) to receive your reward.
 {% endhint %}
