@@ -8,7 +8,7 @@ description: >-
 
 By labelling any issue with a special label, you can automatically create a new deal for your developers.
 
-1\) [Access to the label editor](https://dashboard.feature.sh/settings/labels) for your organisation. Once you are on the right page, you can start creating, editing or deleting any label available to your installation.
+1\) [Access to the label editor](https://dashboard.feature.sh/settings/labels) for your organization. Once you are on the right page, you can start creating, editing or deleting any label available to your installation.
 
 ![Feature's Label Editor](../.gitbook/assets/capture-dashboard-label-contributor.png)
 

@@ -13,7 +13,7 @@ If you made a Pull Request relative to the deal, you are ready to claim your rew
 2\) **Click** on the link to be redirected to the **claiming page**.
 
 {% hint style="info" %}
-If you are in [autodealing](autodealing.md) just click on `Claim` and you will be redirected to the claiming page.
+If you are in [autodealing](https://docs.feature.sh/guides/auto-dealing) just click on `Claim` and you will be redirected to the claiming page.
 {% endhint %}
 
 3\) **Connect your wallet** and click on **Claim**.
@@ -25,5 +25,5 @@ If you are in [autodealing](autodealing.md) just click on `Claim` and you will b
 <figure><img src="../.gitbook/assets/capture-github-challenge-content.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If nobody has challenged your claim within the challenge period, you will be able to [execute the deal](execute-a-deal.md) to receive your reward.
+If nobody has challenged your claim within the challenge period, you will be able to [execute the refund](https://docs.feature.sh/guides/get-refunded) to receive your reward.
 {% endhint %}
