@@ -4,7 +4,7 @@ description: >-
   provide incentives to your developers
 ---
 
-# 🏷 Create a deal using GitHub Labels
+# 🏷 Create a Deal using GitHub Labels
 
 By labelling any issue with a special label, you can automatically create a new deal for your developers.
 
@@ -20,4 +20,6 @@ Note that any operation performed on labels will affect **all the repositories m
 
 You can then put the cryptocurrency amount in escrow and proceed normally.
 
-**Protip**: Feature allows you to automate this process so that you won't have to manually deposit anything in escrow, using organization wallets. Learn more about the [auto dealing](https://docs.feature.sh/guides/auto-dealing) feature.
+**Protip**: Feature allows you to automate this process so that you won't have to manually deposit anything in escrow, using organization wallets.
+
+Learn more about the [auto dealing](https://docs.feature.sh/guides/auto-dealing) feature.
