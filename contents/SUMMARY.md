@@ -4,7 +4,7 @@
 
 ## Guides
 
-* [🏷 Create a deal using GitHub Labels](guides/create-a-deal-using-labels.md)
+* [🏷 Create a Deal using GitHub Labels](guides/create-a-deal-using-labels.md)
 * [🪄 Auto dealing](guides/auto-dealing.md)
 * [✌ Double escrow](guides/double-escrow.md)
 * [🙋 Claim your Reward](guides/claim-your-reward.md)
