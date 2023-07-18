@@ -1,5 +1,5 @@
 ---
-description: Attract developers with a reward.
+description: Attract developers with a reward
 ---
 
 # ⚡ Create a deal using GitHub comments
