@@ -1,5 +1,5 @@
 ---
-description: Different rewards, for different contributor teams!
+description: Different rewards, for different contributors!
 ---
 
 # ✌ Double escrow
