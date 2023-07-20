@@ -4,11 +4,12 @@
 
 ## Guides
 
-* [🏷 Create a deal using GitHub labels](guides/create-a-deal-using-labels.md)
-* [⚡ Create a deal using GitHub comments](guides/create-a-deal-using-comments.md)
+* [🏷 Create a Deal using GitHub Labels](guides/create-a-deal-using-labels.md)
+* [🪄 Auto dealing](guides/auto-dealing.md)
+* [✌ Double escrow](guides/double-escrow.md)
 * [🙋 Claim your Reward](guides/claim-your-reward.md)
 * [⚔ Challenge a Claim](guides/challenge-a-claim.md)
 * [💰 Execute a Payment](guides/execute-a-payment.md)
 * [🔁 Get refunded](guides/get-refunded.md)
-* [🪄 Auto dealing](guides/auto-dealing.md)
-* [⭐ Create a certificat and badges](create-a-certificat-and-badges.md)
+* [⚡ Create a deal using GitHub comments](guides/create-a-deal-using-comments.md)
+* [⭐ Create a certificate and badges](create-a-certificate-and-badges.md)

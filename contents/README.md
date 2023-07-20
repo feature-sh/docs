@@ -16,7 +16,7 @@ You can benefit from Feature services directly on Github. A Github bot parses yo
 
 ## Getting Started
 
-1\) [**Click here**](https://beta.v1.evm.app.feature.sh) to start the **Feature App installation**.
+1\) [**Click here**](https://v1.evm.app.feature.sh) to start the **Feature App installation**.
 
 2\) Once on the Feature installation page, click on **Installation**. You will be redirected to GitHub.
 
@@ -44,7 +44,7 @@ Feature never has access to your code but only to the names of directories and c
 
 ![Sign in or start your free trial](.gitbook/assets/feature\_signin.png)
 
-4\) After signing in, **you're done**! You can see every deals that have been created with Feature bot.
+4\) After signing in, **you're done**! You can see every deal that have been created with Feature bot.
 
 ![Feature's deals page](.gitbook/assets/feature\_deals.png)
 

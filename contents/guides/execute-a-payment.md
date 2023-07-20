@@ -4,9 +4,9 @@ description: Send or get the reward for the good work!
 
 # 💰 Execute a Payment
 
-Once the **challenge period is over**, you will be prompt to **get your reward by the bot**.
+Once the **challenge period is over**, you will be prompted to **get your reward by the bot**.
 
-1\) **Click on **_**"Execute the Transaction"**_ to be redirected on the Deal execution page.
+1\) **Click on **_**"Execute the Transaction"**_ to be redirected to the Deal execution page.
 
 ![You can execute the deal](../.gitbook/assets/challenge\_time\_expired.png)
 

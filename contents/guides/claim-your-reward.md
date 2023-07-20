@@ -8,9 +8,13 @@ If you made a Pull Request relative to the deal, you are ready to claim your rew
 
 1\) **Comment** the **number** of your **Pull Request** with the keyword **`$PR, $pr, $claim`** or **`$fixed`** .
 
-![Linking a PR to claim](../.gitbook/assets/claim\_pr.png)
+<figure><img src="../.gitbook/assets/capture-github-contributor-claim.png" alt=""><figcaption><p>Linking a PR to claim</p></figcaption></figure>
 
 2\) **Click** on the link to be redirected to the **claiming page**.
+
+{% hint style="info" %}
+If you are in [autodealing](https://docs.feature.sh/guides/auto-dealing) just click on `Claim` and you will be redirected to the claiming page.
+{% endhint %}
 
 3\) **Connect your wallet** and click on **Claim**.
 
@@ -18,8 +22,8 @@ If you made a Pull Request relative to the deal, you are ready to claim your rew
 
 4\) Once redirected on GitHub, the Feature bot will tell you that **you claimed successfully**!
 
-![Claim is done](../.gitbook/assets/claim\_done.png)
+<figure><img src="../.gitbook/assets/capture-github-challenge-content.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If nobody has challenged your claim within the challenge period, you will be able to [execute the deal](execute-a-deal.md) to receive your reward.
+If nobody has challenged your claim within the challenge period, you will be able to [execute the payment](https://docs.feature.sh/guides/execute-a-payment) to receive your reward.
 {% endhint %}

@@ -20,14 +20,14 @@ During the review period, you can challenge the claimer if the specifications ar
 
 4\) Once the dispute is resolved, the bot will tell you who wins the dispute.
 
-a) If the **claimer wins**, he will **earn the dispute funds** and will be able to [**execute the payment**](execute-a-payment.md).
+a) If the **claimer wins**, he will **earn the dispute funds** and will be able to [**execute the payment**](https://docs.feature.sh/guides/execute-a-payment).
 
 ![Claimer wins the dispute](../.gitbook/assets/claimer\_wins.png)
 
-b) If the **challenger wins**, he will **earn the dispute funds** and the **previous claim will be canceled**. Then, anybody can [**claim the reward**](claim-your-reward.md) **again**.
+b) If the **challenger wins**, he will **earn the dispute funds** and the **previous claim will be canceled**. Then, anybody can [**claim the reward**](https://docs.feature.sh/guides/claim-your-reward) **again**.
 
 ![Challenger wins the dispute](../.gitbook/assets/challenger\_wins.png)
 
-c) If the **jurors couldn't choose a winner**, the **dispute funds are given to the challenger**, and the **claimer will be able to** [**execute the payment**](execute-a-payment.md).
+c) If the **jurors couldn't choose a winner**, the **dispute funds are given to the challenger**, and the **claimer will be able to** [**execute the payment**](https://docs.feature.sh/guides/execute-a-payment).
 
 ![Nobody wins the dispute](../.gitbook/assets/nobody\_wins.png)
