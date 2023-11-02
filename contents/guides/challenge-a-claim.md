@@ -28,6 +28,6 @@ b) If the **challenger wins**, he will **earn the dispute funds** and the **prev
 
 ![Challenger wins the dispute](../.gitbook/assets/challenger\_wins.png)
 
-c) If the **jurors couldn't choose a winner**, the **dispute funds are given to the challenger**, and the **claimer will be able to** [**execute the payment**](https://docs.feature.sh/guides/execute-a-payment).
+c) If the **jurors couldn't choose a winner**, the **deposit fund is refunded to the challenger**, and the **claimer will be able to** [**execute the payment**](https://docs.feature.sh/guides/execute-a-payment) after the challenger period has expired.
 
 ![Nobody wins the dispute](../.gitbook/assets/nobody\_wins.png)
