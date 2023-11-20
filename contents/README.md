@@ -16,7 +16,7 @@ You can benefit from Feature services directly on Github. A Github bot parses yo
 
 ## Getting Started
 
-1\) [**Click here**](https://v1.evm.app.feature.sh) to start the **Feature App installation**.
+1\) [**Click here**](https://evm.app.feature.sh) to start the **Feature App installation**.
 
 2\) Once on the Feature installation page, click on **Installation**. You will be redirected to GitHub.
 
