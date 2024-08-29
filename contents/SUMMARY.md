@@ -12,3 +12,4 @@
 * [💰 Execute a Payment](guides/execute-a-payment.md)
 * [🔁 Get refunded](guides/get-refunded.md)
 * [⚡ Create a deal using GitHub comments](guides/create-a-deal-using-comments.md)
+* [⭐ Create a certificate and badges](create-a-certificate-and-badges.md)
