@@ -11,7 +11,7 @@ description: Attract developers with a reward
 {% hint style="info" %}
 The keywords to launch a deal are these: `$f, $bounty, $grant, $feature, $feat, $fix, $audit, $CS, $doc, $documentation, $refacto, $refactoring, $code, $chore, $test, $docs, $ci, $perf, $build and $style`.\
 \
-And the keyword networks are: `(polygon)`, `(xdai)`, `(arbitrum_one)`, `(celo)` and `(bsc)`.
+And the keyword networks are: `(polygon)`, `(xdai)`, `(arbitrum_one)`, `(celo)`, `(bsc)` and `(bitfinity_testnet)`.
 {% endhint %}
 
 ![Comment an issue with keywords to create a Deal](../.gitbook/assets/create\_deal\_command.png)
